@@ -1,0 +1,91 @@
+*{
+    margin: 0;
+    padding: 0;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+header{
+    background: powderblue;
+    padding-top: 2%;
+    background-image: url("https://images8.alphacoders.com/926/926492.jpg");
+}
+
+nav{
+    font-size: small;
+    letter-spacing: 1.5px;
+    color: bisque;
+    margin-right: 75%;
+    margin-left: 2%;
+    text-align: justify;
+    padding-bottom: 5%;
+    
+    
+}
+
+.titulo{
+    padding-top: 2%;
+    padding-bottom: 2%;
+    text-align: center;
+    color: purple;
+   
+}
+
+.subtitulo{
+    text-align: center;
+    padding-bottom: 7%;
+    padding-top: 2%;
+    color: rgb(179, 9, 179);
+}
+
+main{
+    background: paleturquoise;
+    height: 100%;
+    width: auto;
+    padding-top: 2.5%;
+    padding-bottom: 2.5%;
+    background-image: url("https://th.bing.com/th/id/R.58e02ef639720049b0fe94b87312bcf7?rik=TzQ9qJ0PpnehEw&riu=http%3a%2f%2fwww.yusrablog.com%2fwp-content%2fuploads%2f2011%2f02%2fSilhouettes-In-The-Night-520x520.jpg&ehk=xywa1JpEaJ6FfgoJHeFcKKfbYYlM3q0yQI3Xd%2bsskfc%3d&risl=&pid=ImgRaw&r=0");
+}
+
+.Blog{
+    border: 1px solid wheat;
+    height: 100%;
+    width: 80%;
+    margin-left: 10%;
+    margin-right: 10%;
+    border-radius: 10px;
+    padding-top: 2.5%;
+    padding-bottom: 2.5%;
+}
+
+/*espaciado*/
+
+.espaciadoBlogs{
+    background: paleturquoise;
+    padding: 5%;
+    background-image: url("https://th.bing.com/th/id/R.58e02ef639720049b0fe94b87312bcf7?rik=TzQ9qJ0PpnehEw&riu=http%3a%2f%2fwww.yusrablog.com%2fwp-content%2fuploads%2f2011%2f02%2fSilhouettes-In-The-Night-520x520.jpg&ehk=xywa1JpEaJ6FfgoJHeFcKKfbYYlM3q0yQI3Xd%2bsskfc%3d&risl=&pid=ImgRaw&r=0");
+}
+
+/*espaciado*/
+
+p{
+    margin: 2%;
+    text-align: justify;
+    color: rgb(189, 134, 112);
+}
+
+img{
+    border-radius: 10px;
+    width: 96%;
+    height: auto;
+    margin-left: 2%;
+    margin-right: 2%;
+}
+
+footer{
+    padding: 25%;
+    background: chocolate;
+    color: azure;
+    background-image: url("https://i.pinimg.com/originals/37/63/4a/37634ad59f9ace343a90013c987f6c75.png");
+}
+
+
