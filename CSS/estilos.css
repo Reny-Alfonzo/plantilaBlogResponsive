@@ -73,14 +73,19 @@ p{
 
 img{
     border-radius: 10px;
-    width: 96%;
+    width: 75%;
     height: auto;
-    margin-left: 2%;
-    margin-right: 2%;
+    margin-left: 12.5%;
+    margin-right: 12.5%;
 }
 
 footer{
-    padding: 6.25%;
+    width: 100%;
+    height: auto;
+    padding-left: 40%;
+    padding-right: 40%;
+    padding-top: 7%;
+    padding-bottom: 7%;
     background: chocolate;
     color: azure;
 }
